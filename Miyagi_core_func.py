@@ -8,4 +8,4 @@ def question(string):
     return '?' in string
 
 def exit_(string):
-    return 'i want to go home' in string
+    return 'sensei, i am at peace' in string

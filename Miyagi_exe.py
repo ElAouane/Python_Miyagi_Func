@@ -8,7 +8,9 @@ while True:
         print('Remember, best block, not to be there..')
     elif question(user_input):
         print('questions are wise, but for now. Wax on, and Wax off!')
+    elif exit_(user_input):
+        print("Sometimes, what heart know, head forget")
+        break
     else:
         print('do not lose focus. Wax on. Wax off.')
-    if exit_(user_input):
-        break
+
