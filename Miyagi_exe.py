@@ -8,6 +8,8 @@ while True:
         print('Remember, best block, not to be there..')
     elif question(user_input):
         print('questions are wise, but for now. Wax on, and Wax off!')
+    elif 'why' in user_input and not user_input.endswith("why"):
+        print('questions are wise, but for now. Wax on, and Wax off!')
     elif exit_(user_input):
         print("Sometimes, what heart know, head forget")
         break

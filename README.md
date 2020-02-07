@@ -16,3 +16,6 @@
 
 # Make it so you keep playing until we say: 'Sensei, I am at peace'
 # --> 'Sometimes, what heart know, head forget'
+
+# OUTCOME: Learned how to work with def function. and manage the control flow
+# Importing the def functions from a different folder and/or file.
